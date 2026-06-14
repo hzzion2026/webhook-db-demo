@@ -44,3 +44,6 @@ git clone https://github.com/hzzion2026/sql-injection-webhook-scanner.git
 cd sql-injection-webhook-scanner
 docker-compose up --build
 ```
+
+---
+*Portfolio & case studies: [hzzion2026.github.io/portfolio](https://hzzion2026.github.io/portfolio/)*
